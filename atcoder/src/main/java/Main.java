@@ -1,5 +1,3 @@
-package atcoder;
-
 /**
  * Hello world!
  *
