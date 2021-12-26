@@ -16,6 +16,7 @@ public class Main {
 		sc.close();
 
 		// 主処理
+		Integer.parseInt(s);
 		int result = 0;
 
 		// 出力
