@@ -58,3 +58,4 @@ build/
 
 # Log file
 *.log
+/bin/
